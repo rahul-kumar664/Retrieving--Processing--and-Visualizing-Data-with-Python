@@ -219,7 +219,4 @@ http://mbostock.github.io/d3/talk/20111018/calendar.html
 
 http://nltk.org/install.html
 
-As always - comments welcome.
-
-Sun Sep 29 00:11:01 EDT 2013
 
